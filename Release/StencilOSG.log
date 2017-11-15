@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/11/15 16:16:45。
+     1>项目“c:\Users\huahai\documents\visual studio 2013\Projects\StencilOSG\StencilOSG\StencilOSG.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt StencilTest.cpp
+         StencilTest.cpp
+     1>StencilTest.cpp(1): fatal error C1083: 无法打开包括文件: “osg\Node”: No such file or directory
+     1>已完成生成项目“c:\Users\huahai\documents\visual studio 2013\Projects\StencilOSG\StencilOSG\StencilOSG.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.16
